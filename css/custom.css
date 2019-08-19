@@ -1,0 +1,58 @@
+.imagemlala{
+	width: 15%;
+}
+
+
+
+.imagem1231{
+	height: 100%;
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.carousel{
+	padding-top: 100px;
+	max-width: 100%;
+}
+
+.carousel1{
+	background-image: url("../img/pessoas.jpg");
+}
+
+.carousel2{
+	background-image: url("../img/imagens/@jackkpires-1370.jpg");
+}
+
+.carousel3{
+	background-image: url("../img/imagens/@jackkpires-1657.jpg");
+}
+
+.carousel4{
+	background-image: url("../img/pessoas2.jpg");
+}
+
+.carousel5{
+	background-image: url("../img/imagens/@jackkpires-1295.jpg");
+}
+
+.carousel6{
+	background-image: url("../img/imagens/@jackkpires-1294.jpg");
+}
+
+.carousel7{
+	background-image: url("../img/imagens/@jackkpires-1288.jpg");
+}
+
+.fotos1{
+	padding-top: 50px;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
